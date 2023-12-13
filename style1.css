@@ -1,0 +1,12 @@
+*{
+    text-align: center;
+    color: aliceblue;
+    background-color: rgb(35, 33, 33);
+}
+
+input{
+    width: 150px;
+    height:150px;
+    font-size: none;
+    border-color: aliceblue;
+}
